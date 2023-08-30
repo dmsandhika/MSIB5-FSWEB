@@ -1,0 +1,7 @@
+Rincian Materi FSWEB MSIB 5
+1. Design Web
+2. UI/UX
+3. Git & Github
+4. MySQL
+5. PHP
+6. Laravel
