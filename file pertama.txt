@@ -4,5 +4,7 @@ Rincian Materi FSWEB MSIB 5
 3. Git & Github
 4. MySQL
 5. PHP
+- CRUD
+- Layout
 6. Laravel
 7. Rest API
