@@ -2,4 +2,9 @@ Rincian Materi FSWEB MSIB 5
 1. Design Grafis
 2. CSS
 3. Git & Github
-
+4. MySQL
+5. FRAMEWORK CI
+6. Laravel
+7. Rest API
+8. Soft Skill
+9. React
